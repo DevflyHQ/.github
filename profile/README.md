@@ -21,4 +21,4 @@ storytelling — from enterprise software and immersive gaming to intellectual p
   swappable adapters). Incubated in Labs, operated by Digital.
 
 ---
-<sub>Built with <code>;</code> <code>&lt;</code> <code>&gt;</code> by the Devfly team.</sub>
+<sub>Built with <code>&lt;</code> <code>;</code> <code>&gt;</code> by the Devfly team.</sub>
