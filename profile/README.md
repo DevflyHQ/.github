@@ -12,7 +12,7 @@ storytelling — from enterprise software and immersive gaming to intellectual p
 - **Devfly Press** — publishing.
 
 ## Shared Core
-- **Devfly Labs** — R&D / incubator; prototypes that graduate into products.
+- **[Devfly Labs](https://github.com/devfly-labs)** — R&D / incubator; prototypes that graduate into products.
 - **Devfly Creative** — design & narrative service hub, hired by the units.
 
 ## Platforms
