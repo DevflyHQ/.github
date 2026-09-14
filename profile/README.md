@@ -7,7 +7,7 @@ storytelling — from enterprise software and immersive gaming to intellectual p
 
 ## Business Units
 *P&L, client-facing.*
-- **Devfly Digital** — B2B / agency & enterprise software, and in-house products.
+- **[Devfly Digital](https://github.com/devfly-digital)** — B2B / agency & enterprise software, and in-house products.
 - **Devfly Interactive** — game development.
 - **Devfly Press** — publishing.
 
