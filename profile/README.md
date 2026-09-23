@@ -13,7 +13,7 @@ storytelling — from enterprise software and immersive gaming to intellectual p
 
 ## Shared Core
 - **[Devfly Labs](https://github.com/devfly-labs)** — R&D / incubator; prototypes that graduate into products.
-- **Devfly Creative** — design & narrative service hub, hired by the units.
+- **[Devfly Creative](https://github.com/devfly-creative)** — design & narrative service hub, hired by the units.
 
 ## Platforms
 - **[Ether Platform](https://github.com/Ether-Platform)** — our knowledge-graph substrate
